@@ -180,3 +180,12 @@
 >   * 컴퓨터 자체 문제
 >   * 현실의 문제
 > * 진도: 24:00
+
+## CSS 실습
+* 강의 https://opentutorials.org/course/1688/9351
+* CSS는 HTML의 design을 담당
+* `float: left;`
+* `<link rel="stylesheet" type="text/css" href="style.css">`
+  * 중복 제거, 유지 보수, 데이터 용량 절감
+* CSS 수업 https://opentutorials.org/course/2418
+* Chrome Stylebot extension https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha
