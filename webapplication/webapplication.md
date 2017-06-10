@@ -189,3 +189,25 @@
   * 중복 제거, 유지 보수, 데이터 용량 절감
 * CSS 수업 https://opentutorials.org/course/2418
 * Chrome Stylebot extension https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha
+
+## 프로그래밍 (JS, PHP 이론)
+
+ 
+### 복습과 수업 예고
+* 강의 https://opentutorials.org/course/1688/9364
+* `<?php`
+
+### Javascript vs PHP
+* 강의 https://opentutorials.org/course/1688/9365
+* php.ini 개발용 설정
+  * display_errors = On
+  * opchache.enable=0
+* HTML, CSS: 정적인 언어
+* JavaScript, PHP: 동적인 언어
+* JavaScript
+  * 웹 브라우저에게 명령을 내릴 수 있는 언어
+* PHP
+
+### 웹페이지에 코드 삽입하기
+* 강의 https://opentutorials.org/course/1688/9366
+* 코드 [index.php](index.php)
