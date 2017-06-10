@@ -172,6 +172,8 @@
   * `padding: 30px;`
   * `margin: 50px;`: 태그와 태그 사이의 간격
   * 크롬 개발자 도구로 확인
+
+![CSS Box Model](box.png)
  
 > ## 보충 라이브 방송
 > * https://www.youtube.com/watch?v=R4DGdyYGgJ8&index=3&list=PLuHgQVnccGMB0EWpZVAwPmtLEisHh6XCY&t=26s
